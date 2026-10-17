@@ -1,4 +1,4 @@
-# Srotas Pravaha — Lam Research Challenge 3.0, Stage 2
+# Srotas Pravaha — Lam Research Challenge 3.0, Stage 2 - 2026
 
 An ESP32-based liquid handling controller for the Lam Research Challenge 3.0 Stage 2 practical engineering challenge. The system implements automatic sump-level protection, flow monitoring and totalization, a controlled transition to flush mode, and automatic shutdown when near-zero flow indicates that the flush supply may be exhausted.
 
@@ -112,10 +112,16 @@ These are control-design advantages, not a claim that every PS item is independe
 
 ## Files
 
-- `LAM_Research_ESP32_Controller.ino` — ESP32 controller sketch (use your final project filename if it differs).
+- `Final_code.ino` — Full project final code.
+- `flowsensor_caliberation.ino` — Full project final code.
 - `README.md` — project overview, operating sequence, pin map and validation notes.
 
 ## Team
 
-**Team Name:** Srotas Pravaha  
+**Team Name:** SROTAS PRAVAHA
+**Team Lead:** Apratim Das
+**Member 2:** Areti Eswar Nagendra Sai Ram
+**Member 3:** Harshit Patil
+**Member 4:** Samit Aridaman Rakesh
+
 **Challenge:** Lam Research Challenge 3.0 — Stage 2 Practical Engineering Challenge
